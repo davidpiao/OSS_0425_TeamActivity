@@ -1,3 +1,4 @@
 # OSS_0425_TeamActivity
-## Student ID: 21700266
-## Team Number: 1
+## Team Number 1
+### Member 01
+Student ID: 21700266
